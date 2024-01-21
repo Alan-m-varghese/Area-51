@@ -251,4 +251,8 @@ ul li:hover{
         text-shadow: none;
     }
 }
+a{
+    color: #ffcf81;
+    text-decoration: none !important;
+}
 
