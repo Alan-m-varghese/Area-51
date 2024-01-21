@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background:area51bckground.png
+    background-image: url('area51bckground.png');
    }
    
    .container {
