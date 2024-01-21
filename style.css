@@ -28,7 +28,7 @@ h1{
 }
 
 span{
-    color: #ffcf81;;
+    color: #ffcf81;
 }
 
 
@@ -251,8 +251,15 @@ ul li:hover{
         text-shadow: none;
     }
 }
-a{
-    color: #ffcf81;
-    text-decoration: none !important;
+
+a {
+  text-decoration: none;
+  color: #ffcf81;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
 }
 
